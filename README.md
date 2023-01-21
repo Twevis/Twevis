@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/116375170/213848425-21b78e87-da02-49dd-9f25-2a8273b96101.gif" width="150"/>
-</div>
 
----
 
 ### 👨🏻‍💻 | About Me :
 
