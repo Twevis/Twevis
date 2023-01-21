@@ -1,3 +1,4 @@
+---
 
 
 ### 👨🏻‍💻 | About Me :
@@ -34,3 +35,6 @@
 ![Discord](https://discord.com/api/guilds/1047111184064716861/embed.png)  <a href="https://www.youtube.com/channel/UCB2p4JH6PtbsKNgO-A71NqQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> <a href="https://discord.com/users/780393150237376553">
     <img src="https://img.shields.io/badge/Discord-informational?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+
+---
+
