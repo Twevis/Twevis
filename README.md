@@ -23,9 +23,9 @@
 
 ### 📊 | GitHub Stats :
 
- <br/>
-    <a href="https://github.com/Twevis"><img alt="Twevis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Twevis&show_icons=true&count_private=true&theme=ayu-mirage" height="200px"/></a>
-<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twevis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
